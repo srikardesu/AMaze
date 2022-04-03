@@ -1,0 +1,9 @@
+/home/srikar/CG_Assignment_1_game/CMakeFiles/rebuild_cache.dir
+/home/srikar/CG_Assignment_1_game/CMakeFiles/glad.dir
+/home/srikar/CG_Assignment_1_game/CMakeFiles/edit_cache.dir
+/home/srikar/CG_Assignment_1_game/CMakeFiles/game.dir
+/home/srikar/CG_Assignment_1_game/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/srikar/CG_Assignment_1_game/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/srikar/CG_Assignment_1_game/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/srikar/CG_Assignment_1_game/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/srikar/CG_Assignment_1_game/libraries/glfw/src/CMakeFiles/glfw.dir
